@@ -1,0 +1,9 @@
+c:\users\fredrik\documents\visual studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\bin\Debug\FreeBusyApplication.exe.config
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\bin\Debug\FreeBusyApplication.exe
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\bin\Debug\FreeBusyApplication.pdb
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\obj\Debug\FreeBusyApplication.csprojResolveAssemblyReference.cache
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\obj\Debug\FreeBusyApplication.FreeBusyForm.resources
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\obj\Debug\FreeBusyApplication.Properties.Resources.resources
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\obj\Debug\FreeBusyApplication.csproj.GenerateResource.Cache
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\obj\Debug\FreeBusyApplication.exe
+c:\Users\Fredrik\Documents\Visual Studio 2013\Projects\FreeBusyApplication\FreeBusyApplication\obj\Debug\FreeBusyApplication.pdb
